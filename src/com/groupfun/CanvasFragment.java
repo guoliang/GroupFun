@@ -1,4 +1,4 @@
-package com.example.groupfun;
+package com.groupfun;
 import android.opengl.GLSurfaceView;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
@@ -17,7 +17,7 @@ public class CanvasFragment extends Fragment{
 	private int           mWinHeight;
 	
 	@Override
-    public View onCreateView(LayoutInflater inflater, ViewGroup container, 
+     public View onCreateView(LayoutInflater inflater, ViewGroup container, 
         Bundle savedInstanceState) {
         // Inflate the layout for this fragment
 		Display disp = this.getActivity().getWindowManager().getDefaultDisplay();

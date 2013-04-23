@@ -1,4 +1,4 @@
-package com.example.groupfun;
+package com.groupfun;
 
 import android.os.Bundle;
 import android.support.v4.app.FragmentActivity;

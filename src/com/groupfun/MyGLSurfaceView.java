@@ -1,4 +1,4 @@
-package com.example.groupfun;
+package com.groupfun;
 
 import android.content.Context;
 import android.opengl.GLSurfaceView;

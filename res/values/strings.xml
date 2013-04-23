@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">Group fun</string>
+    <string name="app_name">GroupFun</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
+    <string name="Color_panel">Color Panel</string>
+    <string name="Pen_panel">Pen Panel</string>
+    <string name="Green">Green Color</string>
 
 </resources>

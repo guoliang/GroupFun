@@ -1,4 +1,4 @@
-package com.example.groupfun;
+package com.groupfun;
 
 import java.util.Vector;
 
